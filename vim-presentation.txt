@@ -9,12 +9,16 @@
 
 
 
+     ^
+     k
+< h     l >
+     j
+     v
 
 
+Vim: a Lesson
 
 
-                                                             BABY'S FIRST VIM
-                                                          an introductory lesson
 
 
 
@@ -42,19 +46,19 @@
 
 
 
+Covered in this presentation:
 
+* Why should you care?
 
-                                                    Covered in this presentation:
+* How did this happen??
 
-                                                      * Why should you care?
+* Let's Vim!
 
-                                                      * How dis happen?
+* Extend Vim
 
-                                                      * Let's Vim!
+* Resources
 
-                                                      * Extend Vim
 
-                                                      * Resources
 
 
 
@@ -80,11 +84,12 @@
 
 
 
-                                                                  WHY VIM?
 
 
+WHAT VIM?
 
 
+* Vim is a text editing program designed for unix-based systems
 
 
 
@@ -118,19 +123,16 @@
 
 
 
-                                                    A Few Classy Reasons To Use Vim
 
 
-                                                        * It's fast
 
-                                                        * It's everywhere
 
-                                                        * It's free and open-source
 
 
 
 
 
+WHY VIM?
 
 
 
@@ -149,7 +151,6 @@
 
 
 
-                                                                HOW VIM?
 
 
 
@@ -169,17 +170,77 @@
 
 
 
+Reasons To Use Vim
 
 
+* It's lightweight and customizable
 
+* Commands can be chained and repeated for maximum efficiency
 
+* It's everywhere
 
+* It's fun!
 
 
 
 
-                                                  Some Saucy Secrets of Vim History
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            HOW VIM HAPPEN?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          Secrets of Vim History
+
+
+                                            * 1973 - release of line editor "ed" by Ken Thompson
+
+                                            * 1979 - release of text editor "vi" by Bill Joy
+
+                                            * 1991 - release of text editor "vim" by Bram Moolenar
 
 
 
@@ -243,9 +304,11 @@
 
                                                             EXTEND VIM
 
-                                                          * The .vimrc file
+                                                    * The .vimrc file
 
-                                                          * Packages
+                                                    * Plugins (shoutout to Tim Pope!)
+
+                                                    * Vim keybindings in other programs
 
 
 
