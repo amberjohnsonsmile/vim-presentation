@@ -1,4 +1,5 @@
 When in doubt, press esc
+
      ^
      k
 < h     l >
@@ -685,10 +686,14 @@ u    undo
 
 * vimtutor
 
-* A Greate Vim Cheat Sheet: vimsheet.com
+* A Greate Vim Cheat Sheet:
+  vimsheet.com
 
-* My .vimrc: https://gist.github.com/amberjohnsonsmile/833721b22c30e270414ad305d1cc0146
+* My .vimrc:
+  https://gist.github.com/amberjohnsonsmile/833721b22c30e270414ad305d1cc0146
 
+* Download this presentation:
+  https://drive.google.com/uc?export=download&id=12jnuQoipYb7NEEmXObRI75j9infAk7GA
 
 
 
