@@ -16,8 +16,8 @@
 
 
 
-                    .                    
-    ##############..... ##############   
+                    .
+    ##############..... ##############
     ##############......##############   
       ##########..........##########     
       ##########........##########       
@@ -708,13 +708,14 @@ EXTEND VIM
 
 LESSON 5
 
-Vim has its own undo/redo functionality!
-From normal mode:
+Vim has its own search functionality!
+From normal mode, start your search with / followed by what you want to search for.
+Press enter to execute the search.
+Move to the next search term by pressing n (for next).
 
-u    undo
-^r   redo
+Ex: /search_term
 
-[ ] Make some edits, undo them, redo them!
+[ ] Using the search functionality, how many times does "Vim" appear in this presentation? ____
 
 
 
@@ -784,11 +785,11 @@ u    undo
 
 
                          RESOURCES
-                  
+
 
 * vimtutor
 
-* A Greate Vim Cheat Sheet:
+* A Great Vim Cheat Sheet:
   vimsheet.com
 
 * My .vimrc:
@@ -878,7 +879,7 @@ u    undo
 
 
 
-This is a steroscopic image by Jonathan Bowan.
+This is a stereoscopic image by Jonathan Bowan.
 Cross your eyes until the V's and X's at the
 top and bottom overlap with the adjacent ones.
 
