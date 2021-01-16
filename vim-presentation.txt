@@ -1,11 +1,14 @@
-When in doubt, press esc
-
-     ^
-     k
-< h     l >
-     j
-     v
-
+|------------------- |
+|  Open me in Vim!   |
+|                    |
+|         ^          |
+|         k          |
+|    < h     l >     |
+|         j          |
+|         v          |
+|                    |
+| When in doubt, esc |
+|--------------------|
 
 
 
