@@ -103,6 +103,8 @@ When in doubt, press esc
 
 * How did this happen?
 
+* Let's talk Windows
+
 * Extend Vim
 
 * Resources
@@ -502,6 +504,100 @@ Hot lava! Start at the top left x then move:
 |    x         x  |
 |                 |
 -------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     ___ 
+                                                  ,o88888 
+                                               ,o8888888' 
+                         ,:o:o:oooo.        ,8O88Pd8888" 
+                     ,.::.::o:ooooOoOoO. ,oO8O8Pd888'" 
+                   ,.:.::o:ooOoOoOO8O8OOo.8OOPd8O8O" 
+                  , ..:.::o:ooOoOOOO8OOOOo.FdO8O8" 
+                 , ..:.::o:ooOoOO8O888O8O,COCOO" 
+                , . ..:.::o:ooOoOOOO8OOOOCOCO" 
+                 . ..:.::o:ooOoOoOO8O8OCCCC"o 
+                    . ..:.::o:ooooOoCoCCC"o:o 
+                    . ..:.::o:o:,cooooCo"oo:o: 
+                 `   . . ..:.:cocoooo"'o:o:::' 
+                 .`   . ..::ccccoc"'o:o:o:::' 
+                :.:.    ,c:cccc"':.:.:.:.:.' 
+              ..:.:"'`::::c:"'..:.:.:.:.:.' 
+            ...:.'.:.::::"'    . . . . .' 
+           .. . ....:."' `   .  . . '' 
+         . . . ...."' 
+         .. . ."'           
+        . 
+
+                        LET'S TALK WINDOWS
+
+
+* Don't worry, not that kind of Windows!
+
+* Buffers = tabs
+
+* Split windows with :split
+
+* Combine with Tmux sessions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
