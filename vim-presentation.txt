@@ -322,11 +322,14 @@ Add your name so no one tries to steal your copy of VIM: A LESSON!
 
                       WHY SHOULD YOU CARE?
 
-* Vim is everywhere, even Facebook
+* Vim is everywhere (even Facebook)
 
 * It's lightweight and customizable
 
 * Commands can be chained and repeated for maximum efficiency
+
+* It's free and open-source, plus the license encourages you to donate to charity
+  (try typing just "vim" in the terminal)
 
 * It's fun!
 
