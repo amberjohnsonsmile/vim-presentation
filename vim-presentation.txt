@@ -250,10 +250,10 @@ ZZ exits a file and saves changes.
 LESSON 2
 
 Vim has a NORMAL mode for cursor movement and an INSERT mode for typing.
-Press i to enter insert mode and esc to go back to normal mode.
+Press a (for append) to enter insert mode and esc to go back to normal mode.
 Add your name so no one tries to steal your copy of VIM: A LESSON!
 
-[ ] This copy of VIM: A LESSON belongs to _________________ 
+[ ] This copy of VIM: A LESSON belongs to _________________
 
 
 
