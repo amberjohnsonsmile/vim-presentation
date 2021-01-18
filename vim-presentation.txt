@@ -617,9 +617,16 @@ Hot lava! Start at the top left x then move:
 
 
 
+LESSON 5
 
+You already know about NORMAL mode and INSERT mode.
+Another mode that makes Vim very powerful is COMMAND mode.
+Vim has all kinds of commands the change settings or perform tasks.
 
+To enter COMMAND from NORMAL mode type : followed by the command you want to execute.
+For example, typing :help will bring up the Vim help file.
 
+[ ] What would you guess is the command to print your working directory? ____
 
 
 
@@ -706,7 +713,7 @@ EXTEND VIM
 
 
 
-LESSON 5
+LESSON 6
 
 Vim has its own search functionality!
 From normal mode, start your search with / followed by what you want to search for.
