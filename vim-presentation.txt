@@ -803,7 +803,7 @@ Ex: /search_term
   https://gist.github.com/amberjohnsonsmile/833721b22c30e270414ad305d1cc0146
 
 * Download this presentation:
-  https://drive.google.com/uc?export=download&id=12jnuQoipYb7NEEmXObRI75j9infAk7GA
+  tiny.cc/ib-vim
 
 
 
