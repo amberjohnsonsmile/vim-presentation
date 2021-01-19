@@ -444,11 +444,35 @@ Delete all the lowercase letters.
                 HOW DID THIS HAPPEN?
 
 
-* 1973 - release of line editor "ed" by Ken Thompson
+* 1969 - ed (editor)
+  * Line editor
+  * Built into the Unix OS
+  * Difficult to use
 
-* 1979 - release of text editor "vi" by Bill Joy
+* 1975 - em (editor for mortals)
 
-* 1991 - release of text editor "vim" by Bram Moolenar
+* 1978 - ex (extended ed)
+  * Written by Bill Joy
+  * Actually extended the em code
+  * Added a visual mode
+
+* 1979 - vi (visual)
+  * Excecutable to open ex
+  * Bundled with Berkeley Software Distrubtion release of Unix
+  * Source code could not be modified without a license
+
+* 1987 - STEVIE (ST editor for vi enthusiasts)
+  * Extended the vi code
+  * Designed to work on an Atari ST
+  * Open source
+
+* 1988 - vim (vi improved)
+  * Written by Bram Moolenar
+  * Extended the STEVIE code
+  * Designed to worrk on an Amiga 2000
+  
+
+
 
 
 
